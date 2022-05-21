@@ -1,0 +1,95 @@
+.jumbotron {
+  padding-bottom: 48px;
+  padding-top: 100px;
+  padding-left: 60px;
+  padding-right: 60px;
+  height:456px;
+}
+.navbar-brand{
+  color: white;
+}
+.navbar{
+ background-color: #413F42;
+}
+.navbar-nav{
+  padding-left: 25px;
+  margin: 5px;
+}
+
+.form-inline{
+  margin-left: 254px;
+  margin-top: 10px;
+} 
+
+.razorpay-embed-btn{
+  margin: 10px;
+}
+h1{
+  color: #d40303ce;
+  text-decoration:none;
+  text-align: center;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 3rem;
+    
+  }
+
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 20px;
+  padding-left: 400px;
+  color: #ffffff;
+}
+
+.jumbotron.cardHero {
+  position: relative;
+  margin-left:760px;
+  top:-150px;
+  color: rgb(37 41 175);
+  letter-spacing: 0.06em;
+  padding-top: 200px;
+}
+#example1{
+    padding: 10px;
+    
+  }
+.nav-item{
+  padding: 5px;
+  margin: 2px;
+}
+
+.jumbotron.cardHero p {
+  margin-top: 180px;
+  font-family:monospace;
+  margin-left: -712px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 900px;
+  text-shadow: 0.5px 0.5px white;
+  
+}
+.cardHeroWrap{
+  height: 100%;
+  z-index:-1;
+ opacity: 1.89;
+}
+.cardHeroMask {
+  position: absolute;
+  justify-content: center;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.3;
+}
+.center{
+  text-align: center;
+}
+
+footer{
+  background-color: rgba(151, 150, 150, 0.77);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
